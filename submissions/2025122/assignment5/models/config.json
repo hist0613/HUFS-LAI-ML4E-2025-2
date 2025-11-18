@@ -1,0 +1,9 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "embedding_dimension": 384,
+  "classifier_type": "LogisticRegression",
+  "training_samples": 210,
+  "validation_samples": 45,
+  "test_samples": 45,
+  "class_weight": "balanced"
+}
